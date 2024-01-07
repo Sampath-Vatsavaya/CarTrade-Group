@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <style>
+        div {
+            align-content: center;
+        }
+    </style>
+    
+</head>
+<body style="display: flex; align-items:center; justify-content:center; background-color:rgb(211, 245, 245);" >
+    <div style="backdrop-filter:blur(45px); border: 5px solid #333; padding-top: 20px; padding-left: 100px;padding-right:100px;padding-bottom: 20px;background-color:rgb(182, 211, 182);margin-top:3%;">
+    
+    <form id="kk" onsubmit="submitForm(event)">
+      <h1 style="text-align:center">Register Here</h1>
+        <label>Title : </label>
+        <select id="title" name="title">
+            <option>Ms</option>
+            <option>Mrs</option>
+            <option>Miss</option>
+            <option>Mr</option>
+          </select>
+          <br>
+          <br>
+           
+          <label>First Name : </label>
+        <input type="Text" name="fname" placeholder="Enter your First Name" required>
+        <br>
+          <br>
+        <label>Last Name : </label>
+        <input type="Text" name="lname" placeholder="Enter your Last Name" required>
+        <br>
+        <br>
+        <label>Email : </label>
+        <input type="email" name="email" placeholder="Enter your mail" required>
+        <br>
+        <br>
+        <label>Age : </label>
+        <input type="number" name="age" placeholder="Enter your age" min=18 required>
+        <br>
+        <br>
+        
+        <label>Phone Number : </label>
+        <input type="tel" name="num" placeholder="Enter Your Phone Number" required>
+        <br>
+        <br>
+        <label>Gender : 
+        <input type="radio" name="m">Male
+        <input type="radio" name="m">Female
+        <input type="radio" name="m">Other
+    </label>
+    <br>
+    <br>
+    <label> Vehicles Owned: 
+        <input type="checkbox" >Bike
+        <br>
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<input type="checkbox" >Scooty
+        <br>
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<input type="checkbox" >Car
+        <br>
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<input type="checkbox" >Other
+       
+        
+        
+    </label>
+    <br>
+    <br>
+    <label>Trade Choices : </label>
+    <select id="carOptions" onchange="showCostPopup()">
+        <option value="disabled selected" >Select an option</option>
+        <option value="purchaseOldCar">Purchase Old Car</option>
+        <option value="purchaseNewCar">Purchase New Car</option>
+        <option value="sellOldCar">Sell Old Car</option>
+    </select>
+    <br>
+    <br>
+    <label>Address : </label>
+    <input type="text-area" placeholder="Please Enter Your Address">
+    <p id="userchoice"></p>
+    <br>
+    <br>
+    <button style="align-items: center; margin-left:40%;" type="submit">Submit</button>
+    </form>
+        <div id="thanksMessage" style="display:none; margin-top: 20px;">
+            <h1>Thanks for registration!</h1>
+        </div>
+    <div id="costPopup" style="display: none; position:fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: white; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);">
+    <label for="costRange">Select the cost range:</label>
+    <select id="costRange">
+      <option value=" disabled selected">Select cost range</option>
+      <option value="<ol><li>Tata Nano</li>
+                         <li>Tata Indica</li>
+                         <li>Hyundai</li>
+                         <li>Maruti</li>
+                     </ol>
+                     ">Less Than 3,50,000 Rupees</option>
+      <option value="<ol>
+                         <li>Suzuki</li>
+                         <li>Mahindra Marazzo</li>
+                         <li>Renault</li>
+                         <li>Volkswagen Polo</li>
+                         </ol>">3,50,000 to 10,00,000 Rupees</option>
+      <option value="<ol>
+                         <li>Toyota</li>
+                         <li>Kia</li>
+                         <li>Nissan</li>
+                         <li>Skoda</li>
+                    </ol>">Above 10,00,000 Rupees</option>
+    </select>
+    
+
+    <button onclick="hideCostPopup()" id="popsubmit" >Submit</button>
+  </div>
+  
+
+
+</div>
+
+<script src = "script.js"></script>
+
+</body>
+</html>
