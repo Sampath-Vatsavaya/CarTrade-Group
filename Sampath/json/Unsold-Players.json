@@ -1,0 +1,1562 @@
+ [
+    {
+      "PLAYER": "Priyansh Arya",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Rohan Kunnummal",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Manan Vohra",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Raj Angad Bawa",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Sarfaraz Khan",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Vivrant Sharma",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Atit Sheth",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Hrithik Shokeen",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Urvil Patel",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Vishnu Solanki",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Ishan Porel",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Kuldip Yadav",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Murgan Ashwin",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Pulkit Narang",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Shiva Singh",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Dinesh Bana",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Rajat Dey",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Abhimanyu Easwaran",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Rithik Easwaran",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Chirag Gandhi",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Nikhil Gangta",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Sudip Gharami",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Ansh Gosai",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Azim Kazi",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Amandeep Khare",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Ankit Kumar",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Bhupen Lalwani",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Pukhraj Mann",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Tanmay Mishra",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Salman Nizar",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Priyank Panchal",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Akshat Raghuwanshi",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Ekant Sen",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Subhranshu Senapati",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Naushad Shaikh",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Dhruv Shorey",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Himmat Singh",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Virat Singh",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Sumeet Verma",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "P.A. Abdul",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Murugan Abhishek",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Atharva Ankolekar",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Baba Aparajith",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Jass Inder Baidwan",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Rahul Buddhi",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Vaisakh Chandran",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Writtick Chatterjee",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Raj Chaudhary",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Ravi Chauhan",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Ashwin Das",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Aarya Desai",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Vineet Dhankhar",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Harsh Dubey",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Prerit Dutta",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Shubhang Hegde",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Saransh Jain",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Mohammad Kaif",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Aman Khan",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Mohd Arslan Khan",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Musheer Khan",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Tanush Kotian",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Manvanth Kumar",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Saurabh Kumar",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Dev Lakra",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Nasir Lone",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Kaushik Maity",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Divij Mehra",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Mani Sankar Mura Singh",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Sanjay Pahal",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Jitender Pal",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Saumy Pandey",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Ansh Patel",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Sairaj Patil",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Pradosh Paul",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Shubham Singh Pundir",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Atal Rai",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Abhimanyusingh Rajput",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Mohit Rathee",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Ninad Rathva",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Rohit Rayudu",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Aniketh Reddy",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Mohit Redkar",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Akash Sengupta",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Suryansh Shedge",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Aradhya Shukla",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Utkarsh Singh",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Shashank Singh",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Ravi Teja",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Akash Vashisht",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Mohit Ahlawat",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "G. Ajitesh",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "L.R. Chethan",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Gourav Choudhary",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Harvik Desai",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Shakir Gandhi",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Sumit Ghadigaonkar",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Baba Indrajith",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Bhagmender Lather",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Anmol Malhotra",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Darshan Misal",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Nikhil Naik",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Prasad Pawar",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Mahesh Pithiya",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Bipin Saurabh",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "B.R. Sharath",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "K.L. Shrijith",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Avneesh Sudha",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Aditya Tare",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Nihal Ullal",
+      "NATIONALITY": "Indian",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "K.M Asif",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Mohit Avasthi",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Basit Bashir",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Waseem Bashir",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Sachin Bhosale",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Devendra Singh Bora",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Gurnoor Singh Brar",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Saurabh Dubey",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Mrinmoy Dutta",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Vishal Godara",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Money Grewal",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Arpit Guleria",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Mukhtar Hussain",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Mohammed Kaif",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Shubham Kapse",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Devang Karamta",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Kulwant Khejroliya",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Ravi Kumar",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Ashwani Kumar",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Raj Limbani",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Lukman Hussain Meriwala",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Venkatesh Muralidhara",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Rakshan Readdi",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Manish Reddy",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Monish Reddy",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Akhin Sathar",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Divesh Sharma",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Ashok Sharma",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Abhilash Shetty",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Rahul Shukla",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Manit Singh",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Gurjapneet Singh",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Nitin Verma",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Gourav Yadav",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Prithvi Raj Yarra",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Mujtaba Yousuf",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Shubham Agrawal",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Mustaq Beg",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "K.C Cariappa",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Ganesh Chaudhary",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Yuvraj Chudasama",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Jasmer Dhankhar",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Chintal Gandhi",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Raghav Goyal",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Shreyas Gurav",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Vishu Kashyap",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Bhuwan Rohilla",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Shivam Sharma",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Digvesh Singh",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Jagadeesha Suchith",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "B. Surya",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Pankaj Yadav",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Sahil Dhiwan",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Kaushal Tambe",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Jake Fraser-Mcgurk",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Duan Jansen",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Prenelan Subrayen",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "William Salzmann",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Ottneil Baartman",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Shamar Joseph",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Kwena Maphaka",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "William O'Rourke",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Paul Van Meekeren",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Chris Wood",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Allah Ghazanfar",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 2000000
+    },
+    {
+      "PLAYER": "Steve Smith",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Batter",
+      "BASE": 20000000
+    },
+    {
+      "PLAYER": "Josh Inglis",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 20000000
+    },
+    {
+      "PLAYER": "Josh Hazlewood",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 20000000
+    },
+    {
+      "PLAYER": "Adil Rashid",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 20000000
+    },
+    {
+      "PLAYER": "Rassie Van Der Dussen",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Batter",
+      "BASE": 20000000
+    },
+    {
+      "PLAYER": "James Vince",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Batter",
+      "BASE": 20000000
+    },
+    {
+      "PLAYER": "Sean Abbott",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 20000000
+    },
+    {
+      "PLAYER": "Jamie Overton",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 20000000
+    },
+    {
+      "PLAYER": "Ben Duckett",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 20000000
+    },
+    {
+      "PLAYER": "Philip Salt",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 15000000
+    },
+    {
+      "PLAYER": "Colin Munro",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Batter",
+      "BASE": 15000000
+    },
+    {
+      "PLAYER": "Jason Holder",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 15000000
+    },
+    {
+      "PLAYER": "James Neesham",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 15000000
+    },
+    {
+      "PLAYER": "Daniel Sams",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 15000000
+    },
+    {
+      "PLAYER": "Chris Jordan",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 15000000
+    },
+    {
+      "PLAYER": "Tymal Mills",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 15000000
+    },
+    {
+      "PLAYER": "Tim Southee",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 15000000
+    },
+    {
+      "PLAYER": "Ashton Agar",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 10000000
+    },
+    {
+      "PLAYER": "Michael Bracewell",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 10000000
+    },
+    {
+      "PLAYER": "Dwaine Pretorius",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 10000000
+    },
+    {
+      "PLAYER": "Sam Billings",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 10000000
+    },
+    {
+      "PLAYER": "Kyle Jamieson",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 10000000
+    },
+    {
+      "PLAYER": "Riley Meredith",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 10000000
+    },
+    {
+      "PLAYER": "Adam Milne",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 10000000
+    },
+    {
+      "PLAYER": "Wayne Parnell",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 10000000
+    },
+    {
+      "PLAYER": "David Wiese",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 10000000
+    },
+    {
+      "PLAYER": "Ish Sodhi",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 7500000
+    },
+    {
+      "PLAYER": "Finn Allen",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Batter",
+      "BASE": 7500000
+    },
+    {
+      "PLAYER": "Fabian Allen",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 7500000
+    },
+    {
+      "PLAYER": "Keemo Paul",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 7500000
+    },
+    {
+      "PLAYER": "Matt Henry",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 7500000
+    },
+    {
+      "PLAYER": "Lance Morris",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 7500000
+    },
+    {
+      "PLAYER": "Ollie Robinson",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 7500000
+    },
+    {
+      "PLAYER": "Billy Stanlake",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 7500000
+    },
+    {
+      "PLAYER": "Olly Stone",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 7500000
+    },
+    {
+      "PLAYER": "Karun Nair",
+      "NATIONALITY": "Indian",
+      "TYPE": "Batter",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Kusal Mendis",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Akeal Hosein",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Mohammad Waqar Salamkheil",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Tabraiz Shamsi",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Alick Athanaze",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Batter",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Mark Chapman",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Batter",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Samuel Hain",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Batter",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Reeza Hendricks",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Batter",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Brandon King",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Batter",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Ibrahim Zadran",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Batter",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Najibullah Zadran",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Batter",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Wesley Agar",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Qais Ahamad",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Charith Asalanka",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Brydon Carse",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Ben Cutting",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Matthew Forde",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "George Garton",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "George Linde",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Keshav Maharaj",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Wiaan Mulder",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Dasun Shanaka",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Matthew Short",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Odean Smith",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Hanuma Vihari",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Johnson Charles",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Wicket-Keeper",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Varun Aaron",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Fareed Ahmad",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Dushmanta Chameera",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Ben Dwarshuis",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Richard Gleeson",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Siddharth Kaul",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Lahiru Kumara",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Obed Mccoy",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Blessing Muzarabani",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Richard Ngarava",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "George Scrimshaw",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Barinder Sran",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Oshane Thomas",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Sandeep Warrier",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Lizaad Williams",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Luke Wood",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 5000000
+    },
+    {
+      "PLAYER": "Benny Howell",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 4000000
+    },
+    {
+      "PLAYER": "Jalaj Saxena",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 4000000
+    },
+    {
+      "PLAYER": "Corbin Bosch",
+      "NATIONALITY": "Overseas",
+      "TYPE": "All-Rounder",
+      "BASE": 3000000
+    },
+    {
+      "PLAYER": "Kamlesh Nagarkoti",
+      "NATIONALITY": "Indian",
+      "TYPE": "All-Rounder",
+      "BASE": 3000000
+    },
+    {
+      "PLAYER": "Basil Thampi",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 3000000
+    },
+    {
+      "PLAYER": "Lalit Yadav",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 3000000
+    },
+    {
+      "PLAYER": "S Midhun",
+      "NATIONALITY": "Indian",
+      "TYPE": "Bowler",
+      "BASE": 3000000
+    },
+    {
+      "PLAYER": "Izharulhuq Naveed",
+      "NATIONALITY": "Overseas",
+      "TYPE": "Bowler",
+      "BASE": 3000000
+    }
+  ]

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Details</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="main-div" class="container">
+        <h1>Employee Details List</h1>
+        <div id="addpop">
+            <div class="pophead " >
+                <span>ADD NEW RECORD</span>
+                <input type="button" value="X" onclick="closepop()"/>
+            </div>
+            <br>
+            <label for="id">Employee ID : </label>
+            <input type="number" id="id" name="id" placeholder="Enter Employee ID" required>
+            <br>
+            <br>
+            <label for="fname">First Name : </label>
+            <input type="Text" id="fname" name="fname" placeholder="Enter your First Name" required>
+            <br>
+              <br>
+            <label for="lname">Last Name : </label>
+            <input type="Text" id="lname" name="lname" placeholder="Enter your Last Name" required>
+            <br>
+            <br>
+            
+            <label for=""> Employee Role : </label>
+            <input type="text" id="role" name="role" placeholder="Enter Role"  required>
+            <br>
+            <br>
+            
+            <label for="salary">Salary: </label>
+            <input type="number" id="salary" name="salary" placeholder="Enter Salary" required>
+            <br>
+            <br>
+            <input type="button" value="ADD RECORD" onclick="add_record()">
+        </div>
+        <div id="buttons-div" class="d-flex justify-content-center">
+            <input type="button" value="ADD NEW RECORDS" onclick="generate_add_popup()">
+            <!-- <input type="button" value="EDIT RECORDS" onclick="generate_edit_button()"> -->
+        </div>
+        <div id="table-div" class="container">
+            <table id="output-table" class="border rounded table  table-hover">
+                <thead class="thead-dark">
+                    <tr>
+                        <td>ID</td>
+                        <td>First Name</td>
+                        <td>Last Name</td>
+                        <td>Role</td>
+                        <td>Salary</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </thead>
+                <tbody id="output-table-body" class="table-group-divider table-divider-color">
+                    
+                </tbody>
+            </table>
+        </div>
+        <div id="editpop">
+            <div class="pophead" >
+                <span>EDIT RECORD</span>
+                <input type="button" value="X" onclick="closepop()"/>
+            </div>
+            <br>
+            <label for="id">Employee ID : </label>
+            <input type="number" id="edit_id" name="id" placeholder="Enter Employee ID" required>
+            <br>
+            <br>
+            <label for="fname">First Name : </label>
+            <input type="Text" id="edit_fname" name="fname" placeholder="Enter your First Name" required>
+            <br>
+              <br>
+            <label for="lname">Last Name : </label>
+            <input type="Text" id="edit_lname" name="lname" placeholder="Enter your Last Name" required>
+            <br>
+            <br>
+            
+            <label for=""> Employee Role : </label>
+            <input type="text" id="edit_role" name="role" placeholder="Enter Role"  required>
+            <br>
+            <br>
+            
+            <label for="salary">Salary: </label>
+            <input type="number" id="edit_salary" name="salary" placeholder="Enter Salary" required>
+            <br>
+            <br>
+            <input type="button" value=" SAVE RECORD" onclick="save_record()">
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+select
+{
+    width: 50% !important;
+    
+}
+#select-div
+{
+    /* display: flex !important; */
+    gap: 10px !important;
+    margin-left: 2% !important;
+    margin-right: 2.5% !important;
+}
+#heading
+{
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,60 @@
+.tablehead{
+    justify-content: center !important;
+    align-items: center;
+}
+#addpop
+{
+    background-color: red;
+    position: absolute;
+    top:20%; 
+    left:40%;
+    border:1px solid black;
+    border-radius:5px;
+    box-shadow: 1px 1px 25px black;
+    background-color: white;;
+    justify-content: center;
+    align-items: center;
+    display:none;
+    padding: 50px;
+}
+.pophead{ background-color: #eee; padding: 10px; 
+    border-top-left-radius: 5px;border-top-right-radius: 5px;
+ }
+ .pophead span{font-weight: bold; }
+ .pophead input{ float:right;}
+ #editpop
+ {
+    background-color: red;
+    position: absolute;
+    top:20%; 
+    left:40%;
+    border:1px solid black;
+    border-radius:5px;
+    box-shadow: 1px 1px 25px black;
+    background-color: white;;
+    justify-content: center;
+    align-items: center;
+    display:none;
+    padding: 50px;
+ }
+
+.edit-btn
+{
+    border: none !important;
+} 
+h1
+{
+    text-align: center;
+}
+#buttons-div
+{
+    justify-content: center !important;
+    align-items: center !important;
+}
+thead
+{
+    background-color: black !important;
+    color: #eee !important;
+   
+    width: 100%;
+}

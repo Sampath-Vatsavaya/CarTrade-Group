@@ -1,0 +1,64 @@
+{
+  "Sheet1": [
+    {
+      "TEAM": "Kolkata Knight Riders",
+      "NATIONALITY": "Mitchell Starc",
+      "TYPE": "Bowler",
+      "PRICE PAID": 247500000
+    },
+    {
+      "TEAM": "Sunrisers Hyderabad",
+      "NATIONALITY": "Pat Cummins",
+      "TYPE": "All-Rounder",
+      "PRICE PAID": 205000000
+    },
+    {
+      "TEAM": "Chennai Super Kings",
+      "NATIONALITY": "Daryl Mitchell",
+      "TYPE": "All-Rounder",
+      "PRICE PAID": 140000000
+    },
+    {
+      "TEAM": "Punjab Kings",
+      "NATIONALITY": "Harshal Patel",
+      "TYPE": "All-Rounder",
+      "PRICE PAID": 117500000
+    },
+    {
+      "TEAM": "Royal Challengers Bangalore",
+      "NATIONALITY": "Alzarri Joseph",
+      "TYPE": "Bowler",
+      "PRICE PAID": 115000000
+    },
+    {
+      "TEAM": "Gujarat Titans",
+      "NATIONALITY": "Spencer Johnson",
+      "TYPE": "Bowler",
+      "PRICE PAID": 100000000
+    },
+    {
+      "TEAM": "Chennai Super Kings",
+      "NATIONALITY": "Sameer Rizvi",
+      "TYPE": "Batter",
+      "PRICE PAID": 84000000
+    },
+    {
+      "TEAM": "Punjab Kings",
+      "NATIONALITY": "Rilee Rossouw",
+      "TYPE": "Batter",
+      "PRICE PAID": 80000000
+    },
+    {
+      "TEAM": "Gujarat Titans",
+      "NATIONALITY": "Shahrukh Khan",
+      "TYPE": "All-Rounder",
+      "PRICE PAID": 74000000
+    },
+    {
+      "TEAM": "Rajasthan Royals",
+      "NATIONALITY": "Rovman Powell",
+      "TYPE": "Batter",
+      "PRICE PAID": 74000000
+    }
+  ]
+}

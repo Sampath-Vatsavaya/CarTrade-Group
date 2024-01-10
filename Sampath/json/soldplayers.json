@@ -1,0 +1,506 @@
+[
+	{
+		"PLAYERS": "Mitchell Starc",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Bowler",
+		"PRICE": 247500000,
+		"TEAM": "KKR"
+	},
+	{
+		"PLAYERS": "Pat Cummins",
+		"NATIONALITY": "Overseas",
+		"TYPE": "All-Rounder",
+		"PRICE": 205000000,
+		"TEAM": "SH"
+	},
+	{
+		"PLAYERS": "Daryl Mitchell",
+		"NATIONALITY": "Overseas",
+		"TYPE": "All-Rounder",
+		"PRICE": 140000000,
+		"TEAM": "CSK"
+	},
+	{
+		"PLAYERS": "Harshal Patel",
+		"NATIONALITY": "Indian",
+		"TYPE": "All-Rounder",
+		"PRICE": 117500000,
+		"TEAM": "PK"
+	},
+	{
+		"PLAYERS": "Alzarri Joseph",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Bowler",
+		"PRICE": 115000000,
+		"TEAM": "RCB"
+	},
+	{
+		"PLAYERS": "Spencer Johnson",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Bowler",
+		"PRICE": 100000000,
+		"TEAM": "GT"
+	},
+	{
+		"PLAYERS": "Sameer Rizvi",
+		"NATIONALITY": "Indian",
+		"TYPE": "Batter",
+		"PRICE": 84000000,
+		"TEAM": "CSK"
+	},
+	{
+		"PLAYERS": "Rilee Rossouw",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Batter",
+		"PRICE": 80000000,
+		"TEAM": "PK"
+	},
+	{
+		"PLAYERS": "Shahrukh Khan",
+		"NATIONALITY": "Indian",
+		"TYPE": "All-Rounder",
+		"PRICE": 74000000,
+		"TEAM": "GT"
+	},
+	{
+		"PLAYERS": "Rovman Powell",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Batter",
+		"PRICE": 74000000,
+		"TEAM": "RR"
+	},
+	{
+		"PLAYERS": "Kumar Kushagra",
+		"NATIONALITY": "Indian",
+		"TYPE": "Wicket-Keeper",
+		"PRICE": 72000000,
+		"TEAM": "DC"
+	},
+	{
+		"PLAYERS": "Travis Head",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Batter",
+		"PRICE": 68000000,
+		"TEAM": "SH"
+	},
+	{
+		"PLAYERS": "Shivam Mavi",
+		"NATIONALITY": "Indian",
+		"TYPE": "Bowler",
+		"PRICE": 64000000,
+		"TEAM": "LSG"
+	},
+	{
+		"PLAYERS": "Umesh Yadav",
+		"NATIONALITY": "Indian",
+		"TYPE": "Bowler",
+		"PRICE": 58000000,
+		"TEAM": "GT"
+	},
+	{
+		"PLAYERS": "Shubham Dubey",
+		"NATIONALITY": "Indian",
+		"TYPE": "Batter",
+		"PRICE": 58000000,
+		"TEAM": "RR"
+	},
+	{
+		"PLAYERS": "Jhye Richardson",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Bowler",
+		"PRICE": 50000000,
+		"TEAM": "DC"
+	},
+	{
+		"PLAYERS": "Gerald Coetzee",
+		"NATIONALITY": "Overseas",
+		"TYPE": "All-Rounder",
+		"PRICE": 50000000,
+		"TEAM": "MI"
+	},
+	{
+		"PLAYERS": "Yash Dayal",
+		"NATIONALITY": "Indian",
+		"TYPE": "Bowler",
+		"PRICE": 50000000,
+		"TEAM": "RCB"
+	},
+	{
+		"PLAYERS": "Nuwan Thushara",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Bowler",
+		"PRICE": 48000000,
+		"TEAM": "MI"
+	},
+	{
+		"PLAYERS": "Dilshan Madushanka",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Bowler",
+		"PRICE": 46000000,
+		"TEAM": "MI"
+	},
+	{
+		"PLAYERS": "Chris Woakes",
+		"NATIONALITY": "Overseas",
+		"TYPE": "All-Rounder",
+		"PRICE": 42000000,
+		"TEAM": "PK"
+	},
+	{
+		"PLAYERS": "Shardul Thakur",
+		"NATIONALITY": "Indian",
+		"TYPE": "All-Rounder",
+		"PRICE": 40000000,
+		"TEAM": "CSK"
+	},
+	{
+		"PLAYERS": "Harry Brook",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Batter",
+		"PRICE": 40000000,
+		"TEAM": "DC"
+	},
+	{
+		"PLAYERS": "Robin Minz",
+		"NATIONALITY": "Indian",
+		"TYPE": "Wicket-Keeper",
+		"PRICE": 36000000,
+		"TEAM": "GT"
+	},
+	{
+		"PLAYERS": "M. Siddharth",
+		"NATIONALITY": "Indian",
+		"TYPE": "Bowler",
+		"PRICE": 24000000,
+		"TEAM": "LSG"
+	},
+	{
+		"PLAYERS": "Sushant Mishra",
+		"NATIONALITY": "Indian",
+		"TYPE": "Bowler",
+		"PRICE": 22000000,
+		"TEAM": "GT"
+	},
+	{
+		"PLAYERS": "Mustafizur Rahman",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Bowler",
+		"PRICE": 20000000,
+		"TEAM": "CSK"
+	},
+	{
+		"PLAYERS": "Mujeeb Rahman",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Bowler",
+		"PRICE": 20000000,
+		"TEAM": "KKR"
+	},
+	{
+		"PLAYERS": "David Willey",
+		"NATIONALITY": "Overseas",
+		"TYPE": "All-Rounder",
+		"PRICE": 20000000,
+		"TEAM": "LSG"
+	},
+	{
+		"PLAYERS": "Lockie Ferguson",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Bowler",
+		"PRICE": 20000000,
+		"TEAM": "RCB"
+	},
+	{
+		"PLAYERS": "Rachin Ravindra",
+		"NATIONALITY": "Overseas",
+		"TYPE": "All-Rounder",
+		"PRICE": 18000000,
+		"TEAM": "CSK"
+	},
+	{
+		"PLAYERS": "Jaydev Unadkat",
+		"NATIONALITY": "Indian",
+		"TYPE": "Bowler",
+		"PRICE": 16000000,
+		"TEAM": "SH"
+	},
+	{
+		"PLAYERS": "Sherfane Rutherford",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Batter",
+		"PRICE": 15000000,
+		"TEAM": "KKR"
+	},
+	{
+		"PLAYERS": "Mohammad Nabi",
+		"NATIONALITY": "Overseas",
+		"TYPE": "All-Rounder",
+		"PRICE": 15000000,
+		"TEAM": "MI"
+	},
+	{
+		"PLAYERS": "Tom Curran",
+		"NATIONALITY": "Overseas",
+		"TYPE": "All-Rounder",
+		"PRICE": 15000000,
+		"TEAM": "RCB"
+	},
+	{
+		"PLAYERS": "Wanindu Hasaranga",
+		"NATIONALITY": "Overseas",
+		"TYPE": "All-Rounder",
+		"PRICE": 15000000,
+		"TEAM": "SH"
+	},
+	{
+		"PLAYERS": "Sumit Kumar",
+		"NATIONALITY": "Indian",
+		"TYPE": "All-Rounder",
+		"PRICE": 10000000,
+		"TEAM": "DC"
+	},
+	{
+		"PLAYERS": "Gus Atkinson",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Bowler",
+		"PRICE": 10000000,
+		"TEAM": "KKR"
+	},
+	{
+		"PLAYERS": "Ashton Turner",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Batter",
+		"PRICE": 10000000,
+		"TEAM": "LSG"
+	},
+	{
+		"PLAYERS": "Shai Hope",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Wicket-Keeper",
+		"PRICE": 7500000,
+		"TEAM": "DC"
+	},
+	{
+		"PLAYERS": "Kartik Tyagi",
+		"NATIONALITY": "Indian",
+		"TYPE": "Bowler",
+		"PRICE": 6000000,
+		"TEAM": "GT"
+	},
+	{
+		"PLAYERS": "Tristan Stubbs",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Wicket-Keeper",
+		"PRICE": 5000000,
+		"TEAM": "DC"
+	},
+	{
+		"PLAYERS": "Azmatullah Omarzai",
+		"NATIONALITY": "Overseas",
+		"TYPE": "All-Rounder",
+		"PRICE": 5000000,
+		"TEAM": "GT"
+	},
+	{
+		"PLAYERS": "Manish Pandey",
+		"NATIONALITY": "Indian",
+		"TYPE": "Batter",
+		"PRICE": 5000000,
+		"TEAM": "KKR"
+	},
+	{
+		"PLAYERS": "K.S. Bharat",
+		"NATIONALITY": "Indian",
+		"TYPE": "Wicket-Keeper",
+		"PRICE": 5000000,
+		"TEAM": "KKR"
+	},
+	{
+		"PLAYERS": "Chetan Sakariya",
+		"NATIONALITY": "Indian",
+		"TYPE": "Bowler",
+		"PRICE": 5000000,
+		"TEAM": "KKR"
+	},
+	{
+		"PLAYERS": "Nandre Burger",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Bowler",
+		"PRICE": 5000000,
+		"TEAM": "RR"
+	},
+	{
+		"PLAYERS": "Tom Kohler-Cadmore",
+		"NATIONALITY": "Overseas",
+		"TYPE": "Wicket-Keeper",
+		"PRICE": 4000000,
+		"TEAM": "RR"
+	},
+	{
+		"PLAYERS": "Avanish Rao Aravelly",
+		"NATIONALITY": "Indian",
+		"TYPE": "Wicket-Keeper",
+		"PRICE": 2000000,
+		"TEAM": "CSK"
+	},
+	{
+		"PLAYERS": "Ricky Bhui",
+		"NATIONALITY": "Indian",
+		"TYPE": "Wicket-Keeper",
+		"PRICE": 2000000,
+		"TEAM": "DC"
+	},
+	{
+		"PLAYERS": "Swastik Chhikara",
+		"NATIONALITY": "Indian",
+		"TYPE": "Batter",
+		"PRICE": 2000000,
+		"TEAM": "DC"
+	},
+	{
+		"PLAYERS": "Rasikh Dar",
+		"NATIONALITY": "Indian",
+		"TYPE": "Bowler",
+		"PRICE": 2000000,
+		"TEAM": "DC"
+	},
+	{
+		"PLAYERS": "Manav Suthar",
+		"NATIONALITY": "Indian",
+		"TYPE": "Bowler",
+		"PRICE": 2000000,
+		"TEAM": "GT"
+	},
+	{
+		"PLAYERS": "Angkrish Raghuvanshi",
+		"NATIONALITY": "Indian",
+		"TYPE": "Batter",
+		"PRICE": 2000000,
+		"TEAM": "KKR"
+	},
+	{
+		"PLAYERS": "Ramandeep Singh",
+		"NATIONALITY": "Indian",
+		"TYPE": "All-Rounder",
+		"PRICE": 2000000,
+		"TEAM": "KKR"
+	},
+	{
+		"PLAYERS": "Sakib Hussain",
+		"NATIONALITY": "Indian",
+		"TYPE": "Bowler",
+		"PRICE": 2000000,
+		"TEAM": "KKR"
+	},
+	{
+		"PLAYERS": "Arshin Kulkarni",
+		"NATIONALITY": "Indian",
+		"TYPE": "All-Rounder",
+		"PRICE": 2000000,
+		"TEAM": "LSG"
+	},
+	{
+		"PLAYERS": "Mohd. Arshad Khan",
+		"NATIONALITY": "Indian",
+		"TYPE": "All-Rounder",
+		"PRICE": 2000000,
+		"TEAM": "LSG"
+	},
+	{
+		"PLAYERS": "Shreyas Gopal",
+		"NATIONALITY": "Indian",
+		"TYPE": "Bowler",
+		"PRICE": 2000000,
+		"TEAM": "MI"
+	},
+	{
+		"PLAYERS": "Shivalik Sharma",
+		"NATIONALITY": "Indian",
+		"TYPE": "All-Rounder",
+		"PRICE": 2000000,
+		"TEAM": "MI"
+	},
+	{
+		"PLAYERS": "Anshul Kamboj",
+		"NATIONALITY": "Indian",
+		"TYPE": "All-Rounder",
+		"PRICE": 2000000,
+		"TEAM": "MI"
+	},
+	{
+		"PLAYERS": "Naman Dhir",
+		"NATIONALITY": "Indian",
+		"TYPE": "All-Rounder",
+		"PRICE": 2000000,
+		"TEAM": "MI"
+	},
+	{
+		"PLAYERS": "Tanay Thyagarajann",
+		"NATIONALITY": "Indian",
+		"TYPE": "All-Rounder",
+		"PRICE": 2000000,
+		"TEAM": "PK"
+	},
+	{
+		"PLAYERS": "Vishwanath Pratap Singh",
+		"NATIONALITY": "Indian",
+		"TYPE": "All-Rounder",
+		"PRICE": 2000000,
+		"TEAM": "PK"
+	},
+	{
+		"PLAYERS": "Ashutosh Sharma",
+		"NATIONALITY": "Indian",
+		"TYPE": "All-Rounder",
+		"PRICE": 2000000,
+		"TEAM": "PK"
+	},
+	{
+		"PLAYERS": "Shashank Singh",
+		"NATIONALITY": "Indian",
+		"TYPE": "Batter",
+		"PRICE": 2000000,
+		"TEAM": "PK"
+	},
+	{
+		"PLAYERS": "Prince Choudhary",
+		"NATIONALITY": "Indian",
+		"TYPE": "Bowler",
+		"PRICE": 2000000,
+		"TEAM": "PK"
+	},
+	{
+		"PLAYERS": "Abid Mushtaq",
+		"NATIONALITY": "Indian",
+		"TYPE": "All-Rounder",
+		"PRICE": 2000000,
+		"TEAM": "RR"
+	},
+	{
+		"PLAYERS": "Saurav Chuahan",
+		"NATIONALITY": "Indian",
+		"TYPE": "Batter",
+		"PRICE": 2000000,
+		"TEAM": "RCB"
+	},
+	{
+		"PLAYERS": "Swapnil Singh",
+		"NATIONALITY": "Indian",
+		"TYPE": "All-Rounder",
+		"PRICE": 2000000,
+		"TEAM": "RCB"
+	},
+	{
+		"PLAYERS": "Jhathavedh Subramanyan",
+		"NATIONALITY": "Indian",
+		"TYPE": "Bowler",
+		"PRICE": 2000000,
+		"TEAM": "SH"
+	},
+	{
+		"PLAYERS": "Akash Singh",
+		"NATIONALITY": "Indian",
+		"TYPE": "Bowler",
+		"PRICE": 2000000,
+		"TEAM": "SH"
+	}
+]
