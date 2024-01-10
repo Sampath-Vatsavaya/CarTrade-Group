@@ -1,0 +1,40 @@
+.loan_calculator
+{
+    width: 400px;
+      height: 550px;
+      background-color: cadetblue;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translateX(-50%) translateY(-50%);
+      padding: 20px 0px 0px 100px;
+      border-radius: 10px;
+      color: white;
+}
+h1
+{
+    color :black;
+    font-size: x-large;
+}
+p
+{
+    color: rgb(22, 2, 2);
+    font-size: 25px;
+    font-family: sans-serif;
+ }
+input{
+    height: 33px;
+    width: 70%;
+    background-color: white;
+    font-size: 20px;
+    color:black;
+    padding: 7px;
+ }
+ #calculate_op{
+    color: black;
+    font-size: 20px;
+    width: 100px;
+    align-content: center;
+    margin-left:100px;
+    cursor: pointer;
+ }
