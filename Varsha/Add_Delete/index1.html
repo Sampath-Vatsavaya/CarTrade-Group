@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <script src="script1.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <title>Student Data</title>
+
+</head>
+<body>
+    
+    <div class="student_data">
+        <div class="heading">
+            <h1>Student Data</h1>
+        </div>
+        
+        <div class="add">
+            <button type="button" class="btn btn-outline-dark btn-sm" style="border: 1.5px solid;" id="add" onclick="add_popup()">Add</button>
+        </div>
+        <br>
+        <div class="table-div" id="student_table">
+            <table class="table table-bordered" id="table">
+                <thead>
+                    <tr>
+                        <th>SNO</th>
+                        <th>Roll Number</th>
+                        <th>Student Name</th>
+                        <th>Age</th>
+                        <th>Branch</th>
+                        <th>Year</th>
+                    </tr>
+                </thead>
+                
+            </table>
+        </div>
+
+        <div class="adpopup" id="adpopup">
+            <div class="add_popup_head" >
+                <span>Add Data</span>
+                <input type="button" id="del"  value="X" onclick="close_add_popup()"/>
+            </div>
+            <div class="add_popup_content">
+                <label>Roll Number:</label>
+                <input type="text" id = "add_rollno" placeholder="Enter Roll No" />
+                <br>
+                <label>Student Name:</label>
+                <input type="text" id = "add_name" placeholder="Enter Student Name" />
+                <br>
+                <label>Age:</label>
+                <input type='number' id="add_age"  placeholder="Enter Age" />
+                <br>
+                    
+                <label name="branch" >Branch:</label>
+                <select id="add_branch" >
+                    <option value="" disabled selected hidden></option>
+                    <option value="CSE">CSE</option>
+                    <option value="ECE">ECE</option>
+                    <option value="EEE">EEE</option>
+                    <option value="MECH">MECH</option>
+                    <option value="CIVIL">CIVIL</option>
+                </select>
+                <br>
+                <label name="year" >Year:</label>
+                <select id="add_year" >
+                    <option value="" disabled selected hidden></option>
+                    <option value="I">I</option>
+                    <option value="II">II</option>
+                    <option value="III">III</option>
+                    <option value="IV">IV</option>
+                </select>
+                <br>
+    
+                <button id="addrecord" onclick="add_record()">Add Record</button>
+            </div>
+        </div> 
+        
+        <div class="editpopup" id="editpopup" name="closepopup">
+            <div class="edit_popup_head" >
+                <span>Edit Data</span>
+                <input type="button" id="edit_del" value="X"  onclick="close_edit_popup()"/>
+            </div>
+            <div class="edit_popup_content">
+                <label>Roll Number:</label>
+                <input type="text" id = "edit_rollno" placeholder="Enter Roll No" />
+                <br>
+                <label>Student Name:</label>
+                <input type="text" id = "edit_name" placeholder="Enter Student Name" />
+                <br>
+                <label>Age:</label>
+                <input type='number'  id="edit_age"  placeholder="Enter Age" />
+                <br>
+                    
+                <label name="branch" >Branch:</label>
+                <select id="edit_branch" >
+                    <option value="" disabled selected hidden></option>
+                    <option value="CSE">CSE</option>
+                    <option value="ECE">ECE</option>
+                    <option value="EEE">EEE</option>
+                    <option value="MECH">MECH</option>
+                    <option value="CIVIL">CIVIL</option>
+                </select>
+                <br>
+                <label name="year" >Year:</label>
+                <select id="edit_year" >
+                    <option value="" disabled selected hidden></option>
+                    <option value="I">I</option>
+                    <option value="II">II</option>
+                    <option value="III">III</option>
+                    <option value="IV">IV</option>
+                </select>
+                <br>
+    
+                <button id="editrecord" onclick="edit_save()">Save Changes</button>
+            </div>
+        </div>
+        
+    </div>
+    
+</body>
+</html>

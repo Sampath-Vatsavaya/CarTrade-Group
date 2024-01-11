@@ -1,0 +1,57 @@
+<html>
+	<head>
+<style>
+	@media screen and (width: 1000px), screen and (width: 700px) {
+		div {
+			padding-right: 30px; 
+		}
+	}
+	
+	@media screen and (min-width: 700px) and (max-width: 1000px) {
+		div {
+			padding-right: 10vw; /* Corresponds to 10% of the viewport width */
+		}
+	}
+</style>
+</head>
+<body>
+<div id="one" style="position: absolute;top:50px;left:1px;"><span style='font-size:100px;'>&#128654;</span></div>
+<script>
+	var cnt = 0;
+	var l = 1;
+	var i=1;
+	x=setInterval(function(){
+		if(l>333)
+		{
+			center();
+		}
+		//document.getElementById("one").innerHTML = cnt;
+		document.getElementById("one").style.left = l+ "px";
+		l++;
+	},40);
+    function center()
+	{
+		clearInterval(x);
+		y=setInterval(function(){
+	
+		if(l>666)
+		{
+			right();
+		}
+		//document.getElementById("one").innerHTML = cnt;
+		document.getElementById("one").style.left = l+ "px";
+		l++;
+	},15);
+	}
+	function right()
+	{
+		clearInterval(y);
+		z=setInterval(function(){
+		//document.getElementById("one").innerHTML = cnt;
+		document.getElementById("one").style.left = l+ "px";
+		l++;
+	},5);
+	}
+</script>
+</body>
+</html>
