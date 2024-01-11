@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+
+<body>
+    <div id="navbar">
+        <h1>Customer Sales Record</h1>
+    </div>
+    <br>
+    <button onclick="addData()">Add Record</button>
+    <div id="addData">
+        <div class="addformhead">
+            <span>Add Record</span>
+            <input type="button" value="X" onclick="addremove()" />
+        </div>
+        <form id="addform">
+            <label>Customer ID</label>
+            <input type="text" id="custid" placeholder="Enter Customer ID" />
+            <br>
+            <label>Customer Name</label>
+            <input type="text" id="custname" placeholder="Enter Customer Name" />
+            <br>
+            <label>Phone Number</label>
+            <input type='tel' id="contact" placeholder="Enter Customer Contact" />
+            <br>
+
+            <label name="items">Item Brought</label>
+            <select id="items">
+                <option>Sugar</option>
+                <option>Maida</option>
+                <option>Rice</option>
+                <option>CoolDrink</option>
+                <option>Wheat</option>
+            </select>
+            <br>
+        </form>
+        <div id="addsubmit">
+        <button id="submit">Submit</button>
+    </div>
+    </div>
+
+    <div>
+
+        <table id="custdata">
+
+        </table>
+    </div>
+    <div id="editpop">
+        <div class="pophead">
+            <span>Edit Data</span>
+            <input type="button" value="X" onclick="popremove()" />
+        </div>
+        <div class="popcontent">
+            <label>Customer ID</label>
+            <input type="text" id="edit_id" placeholder="Enter Customer ID" />
+            <br>
+            <label>Customer Name</label>
+            <input type="text" id="edit_name" placeholder="Enter Customer Name" />
+            <br>
+            <label>Phone Number</label>
+            <input type='tel' id="edit_contact" placeholder="Enter Customer Contact" />
+            <br>
+
+            <label name="pitems">Item Brought</label>
+            <select id="edit_item">
+                <option value="Sugar">Sugar</option>
+                <option value="Maida">Maida</option>
+                <option value="Rice">Rice</option>
+                <option value="CoolDrink">CoolDrink</option>
+                <option value="Wheat">Wheat</option>
+            </select>
+            <br>
+            <div id="popsubmit">
+            <button id="editsave" onclick="editsave()">Save Changes</button>
+        </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

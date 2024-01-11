@@ -1,0 +1,2072 @@
+[
+    {
+        "year": "2012",
+        "make": "Acura",
+        "model": "MDX",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Acura",
+        "model": "RDX",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Acura",
+        "model": "RL",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Acura",
+        "model": "TL",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Acura",
+        "model": "TSX",
+        "body_styles": "\"[\"\"Wagon\"\", \"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Acura",
+        "model": "ZDX",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Aston Martin",
+        "model": "DB9",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Aston Martin",
+        "model": "DBS",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Aston Martin",
+        "model": "Rapide",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Aston Martin",
+        "model": "Vantage",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Aston Martin",
+        "model": "Virage",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Audi",
+        "model": "A3",
+        "body_styles": "\"[\"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Audi",
+        "model": "A4",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Audi",
+        "model": "A5",
+        "body_styles": "\"[\"\"Convertible\"\", \"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Audi",
+        "model": "A6",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Audi",
+        "model": "A7",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Audi",
+        "model": "A8",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Audi",
+        "model": "Q5",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Audi",
+        "model": "Q7",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Audi",
+        "model": "R8",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Audi",
+        "model": "S4",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Audi",
+        "model": "S5",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Audi",
+        "model": "TT",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Bentley",
+        "model": "Continental",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Sedan\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Bentley",
+        "model": "Mulsanne",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "BMW",
+        "model": "1 Series",
+        "body_styles": "\"[\"\"Convertible\"\", \"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "BMW",
+        "model": "3 Series",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\", \"\"Wagon\"\", \"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "BMW",
+        "model": "5 Series",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "BMW",
+        "model": "6 Series",
+        "body_styles": "\"[\"\"Convertible\"\", \"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "BMW",
+        "model": "7 Series",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "BMW",
+        "model": "M3",
+        "body_styles": "\"[\"\"Convertible\"\", \"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "BMW",
+        "model": "M6",
+        "body_styles": "\"[\"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "BMW",
+        "model": "X3",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "BMW",
+        "model": "X5",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "BMW",
+        "model": "X5 M",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "BMW",
+        "model": "X6",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "BMW",
+        "model": "X6 M",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "BMW",
+        "model": "Z4",
+        "body_styles": "\"[\"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Buick",
+        "model": "Enclave",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Buick",
+        "model": "LaCrosse",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Buick",
+        "model": "Regal",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Buick",
+        "model": "Verano",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Cadillac",
+        "model": "CTS",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Coupe\"\", \"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Cadillac",
+        "model": "Escalade",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Cadillac",
+        "model": "Escalade ESV",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Cadillac",
+        "model": "Escalade EXT",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Cadillac",
+        "model": "SRX",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Avalanche",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Camaro",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Captiva Sport",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Colorado Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Colorado Extended Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Colorado Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Corvette",
+        "body_styles": "\"[\"\"Convertible\"\", \"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Cruze",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Equinox",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Express 1500 Cargo",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Express 1500 Passenger",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Express 2500 Cargo",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Express 2500 Passenger",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Express 3500 Cargo",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Express 3500 Passenger",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Impala",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Silverado 1500 Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Silverado 1500 Extended Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Silverado 1500 Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Silverado 2500 HD Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Silverado 2500 HD Extended Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Silverado 2500 HD Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Silverado 3500 HD Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Silverado 3500 HD Extended Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Silverado 3500 HD Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Sonic",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Suburban 1500",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Suburban 2500",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Tahoe",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Traverse",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chevrolet",
+        "model": "Volt",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chrysler",
+        "model": "200",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chrysler",
+        "model": "300",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Chrysler",
+        "model": "Town & Country",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Dodge",
+        "model": "Avenger",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Dodge",
+        "model": "Caliber",
+        "body_styles": "\"[\"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Dodge",
+        "model": "Challenger",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Dodge",
+        "model": "Charger",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Dodge",
+        "model": "Durango",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Dodge",
+        "model": "Grand Caravan Passenger",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Dodge",
+        "model": "Journey",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ferrari",
+        "model": "458 Italia",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ferrari",
+        "model": "California",
+        "body_styles": "\"[\"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ferrari",
+        "model": "FF",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "FIAT",
+        "model": "500",
+        "body_styles": "\"[\"\"Hatchback\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Fisker",
+        "model": "Karma",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "E150 Cargo",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "E150 Passenger",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "E250 Cargo",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "E350 Super Duty Cargo",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "E350 Super Duty Passenger",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "Edge",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "Escape",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "Expedition",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "Expedition EL",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "Explorer",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "F150 Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "F150 Super Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "F150 SuperCrew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "F250 Super Duty Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "F250 Super Duty Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "F250 Super Duty Super Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "F350 Super Duty Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "F350 Super Duty Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "F350 Super Duty Super Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "F450 Super Duty Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "Fiesta",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "Flex",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "Focus",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "Fusion",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "Mustang",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "Taurus",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "Transit Connect Cargo",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ford",
+        "model": "Transit Connect Passenger",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Acadia",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Canyon Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Canyon Extended Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Canyon Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Savana 1500 Cargo",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Savana 1500 Passenger",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Savana 2500 Cargo",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Savana 2500 Passenger",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Savana 3500 Cargo",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Savana 3500 Passenger",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Sierra 1500 Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Sierra 1500 Extended Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Sierra 1500 Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Sierra 2500 HD Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Sierra 2500 HD Extended Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Sierra 2500 HD Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Sierra 3500 HD Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Sierra 3500 HD Extended Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Sierra 3500 HD Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Terrain",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Yukon",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Yukon XL 1500",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "GMC",
+        "model": "Yukon XL 2500",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Honda",
+        "model": "Accord",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Honda",
+        "model": "Civic",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Honda",
+        "model": "Crosstour",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Honda",
+        "model": "CR-V",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Honda",
+        "model": "CR-Z",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Honda",
+        "model": "Fit",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Honda",
+        "model": "Insight",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Honda",
+        "model": "Odyssey",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Honda",
+        "model": "Pilot",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Honda",
+        "model": "Ridgeline",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Hyundai",
+        "model": "Accent",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Hyundai",
+        "model": "Azera",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Hyundai",
+        "model": "Equus",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Hyundai",
+        "model": "Genesis",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Hyundai",
+        "model": "Genesis Coupe",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Hyundai",
+        "model": "Veloster",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Hyundai",
+        "model": "Veracruz",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "INFINITI",
+        "model": "EX",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "INFINITI",
+        "model": "FX",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "INFINITI",
+        "model": "G",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\", \"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "INFINITI",
+        "model": "M",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "INFINITI",
+        "model": "QX",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Jaguar",
+        "model": "XF",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Jaguar",
+        "model": "XJ",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Jaguar",
+        "model": "XK",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Jeep",
+        "model": "Compass",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Jeep",
+        "model": "Grand Cherokee",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Jeep",
+        "model": "Liberty",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Jeep",
+        "model": "Patriot",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Jeep",
+        "model": "Wrangler",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Kia",
+        "model": "Forte",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Hatchback\"\", \"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Kia",
+        "model": "Optima",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Kia",
+        "model": "Rio",
+        "body_styles": "\"[\"\"Hatchback\"\", \"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Kia",
+        "model": "Sedona",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Kia",
+        "model": "Sorento",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Kia",
+        "model": "Soul",
+        "body_styles": "\"[\"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Kia",
+        "model": "Sportage",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lamborghini",
+        "model": "Aventador",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lamborghini",
+        "model": "Gallardo",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Land Rover",
+        "model": "LR2",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Land Rover",
+        "model": "LR4",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Land Rover",
+        "model": "Range Rover",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Land Rover",
+        "model": "Range Rover Evoque",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Land Rover",
+        "model": "Range Rover Sport",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lexus",
+        "model": "CT",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lexus",
+        "model": "ES",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lexus",
+        "model": "GX",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lexus",
+        "model": "HS",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lexus",
+        "model": "IS",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lexus",
+        "model": "LFA",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lexus",
+        "model": "LS",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lexus",
+        "model": "RX",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lincoln",
+        "model": "MKS",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lincoln",
+        "model": "MKT",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lincoln",
+        "model": "MKX",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lincoln",
+        "model": "MKZ",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lincoln",
+        "model": "Navigator",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lincoln",
+        "model": "Navigator L",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Lotus",
+        "model": "Evora",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Maserati",
+        "model": "GranTurismo",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Maserati",
+        "model": "Quattroporte",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Maybach",
+        "model": "57",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Maybach",
+        "model": "62",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "MAZDA",
+        "model": "CX-7",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "MAZDA",
+        "model": "CX-9",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "MAZDA",
+        "model": "MAZDA2",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "MAZDA",
+        "model": "MAZDA3",
+        "body_styles": "\"[\"\"Hatchback\"\", \"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "MAZDA",
+        "model": "MAZDA5",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "MAZDA",
+        "model": "MAZDA6",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "MAZDA",
+        "model": "MX-5 Miata",
+        "body_styles": "\"[\"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "McLaren",
+        "model": "MP4-12C",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "CL-Class",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "CLS-Class",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Coupe\"\", \"\"Convertible\"\", \"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "G-Class",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "GL-Class",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "GLK-Class",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "M-Class",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "R-Class",
+        "body_styles": "\"[\"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "S-Class",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "SL-Class",
+        "body_styles": "\"[\"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "SLK-Class",
+        "body_styles": "\"[\"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "SLS-Class",
+        "body_styles": "\"[\"\"Convertible\"\", \"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "Sprinter 2500 Cargo",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "Sprinter 2500 Crew",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "Sprinter 2500 Passenger",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mercedes-Benz",
+        "model": "Sprinter 3500 Cargo",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "MINI",
+        "model": "Clubman",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "MINI",
+        "model": "Convertible",
+        "body_styles": "\"[\"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "MINI",
+        "model": "Countryman",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "MINI",
+        "model": "Coupe",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "MINI",
+        "model": "Hardtop",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "MINI",
+        "model": "Roadster",
+        "body_styles": "\"[\"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mitsubishi",
+        "model": "Eclipse",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mitsubishi",
+        "model": "Galant",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mitsubishi",
+        "model": "i-MiEV",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mitsubishi",
+        "model": "Lancer",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mitsubishi",
+        "model": "Outlander",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Mitsubishi",
+        "model": "Outlander Sport",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "370Z",
+        "body_styles": "\"[\"\"Convertible\"\", \"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "Altima",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "Armada",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "cube",
+        "body_styles": "\"[\"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "Frontier Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "Frontier King Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "GT-R",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "JUKE",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "LEAF",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "Maxima",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "Murano",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "NV1500 Cargo",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "NV2500 HD Cargo",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "NV3500 HD Cargo",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "NV3500 HD Passenger",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "Pathfinder",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "Quest",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "Rogue",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "Sentra",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "Titan Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "Titan King Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "Versa",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Nissan",
+        "model": "Xterra",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Porsche",
+        "model": "911",
+        "body_styles": "\"[\"\"Coupe\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Porsche",
+        "model": "Boxster",
+        "body_styles": "\"[\"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Porsche",
+        "model": "Cayenne",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Porsche",
+        "model": "Cayman",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Porsche",
+        "model": "Panamera",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ram",
+        "model": "1500 Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ram",
+        "model": "1500 Quad Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ram",
+        "model": "1500 Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ram",
+        "model": "2500 Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ram",
+        "model": "2500 Mega Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ram",
+        "model": "2500 Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ram",
+        "model": "3500 Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ram",
+        "model": "3500 Mega Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ram",
+        "model": "3500 Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Ram",
+        "model": "C/V",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Rolls-Royce",
+        "model": "Ghost",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Rolls-Royce",
+        "model": "Phantom",
+        "body_styles": "\"[\"\"Convertible\"\", \"\"Coupe\"\", \"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Scion",
+        "model": "iQ",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Scion",
+        "model": "tC",
+        "body_styles": "\"[\"\"Coupe\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Scion",
+        "model": "xB",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Scion",
+        "model": "xD",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "smart",
+        "model": "fortwo",
+        "body_styles": "\"[\"\"Hatchback\"\", \"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Subaru",
+        "model": "Forester",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Subaru",
+        "model": "Impreza",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Subaru",
+        "model": "Legacy",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Subaru",
+        "model": "Outback",
+        "body_styles": "\"[\"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Subaru",
+        "model": "Tribeca",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Suzuki",
+        "model": "Equator Crew Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Suzuki",
+        "model": "Equator Extended Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Suzuki",
+        "model": "Grand Vitara",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Suzuki",
+        "model": "Kizashi",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Suzuki",
+        "model": "SX4",
+        "body_styles": "\"[\"\"Sedan\"\", \"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Tesla",
+        "model": "Model S",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "4Runner",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Avalon",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Camry",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Corolla",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "FJ Cruiser",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Highlander",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Matrix",
+        "body_styles": "\"[\"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Prius",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Prius c",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Prius Plug-in Hybrid",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Prius v",
+        "body_styles": "\"[\"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "RAV4",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Sienna",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Tacoma Access Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Tacoma Double Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Tacoma Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Tundra CrewMax",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Tundra Double Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Tundra Regular Cab",
+        "body_styles": "\"[\"\"Pickup\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Venza",
+        "body_styles": "\"[\"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Toyota",
+        "model": "Yaris",
+        "body_styles": "\"[\"\"Hatchback\"\", \"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volkswagen",
+        "model": "Beetle",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volkswagen",
+        "model": "CC",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volkswagen",
+        "model": "Eos",
+        "body_styles": "\"[\"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volkswagen",
+        "model": "Golf",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volkswagen",
+        "model": "GTI",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volkswagen",
+        "model": "Jetta",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volkswagen",
+        "model": "Jetta SportWagen",
+        "body_styles": "\"[\"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volkswagen",
+        "model": "Passat",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volkswagen",
+        "model": "Routan",
+        "body_styles": "\"[\"\"Van/Minivan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volkswagen",
+        "model": "Tiguan",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volkswagen",
+        "model": "Touareg",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volvo",
+        "model": "C30",
+        "body_styles": "\"[\"\"Hatchback\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volvo",
+        "model": "C70",
+        "body_styles": "\"[\"\"Convertible\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volvo",
+        "model": "S60",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volvo",
+        "model": "S80",
+        "body_styles": "\"[\"\"Sedan\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volvo",
+        "model": "XC60",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volvo",
+        "model": "XC70",
+        "body_styles": "\"[\"\"Wagon\"\"]\""
+    },
+    {
+        "year": "2012",
+        "make": "Volvo",
+        "model": "XC90",
+        "body_styles": "\"[\"\"SUV\"\"]\""
+    }
+]

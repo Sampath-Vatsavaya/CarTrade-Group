@@ -1,0 +1,19 @@
+#formdiv{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding-top:3%;
+}
+#btndiv,#header{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+#res_display{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:green;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top:3%;  
+}
