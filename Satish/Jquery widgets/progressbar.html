@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>my progressbar</title>
+  <link rel="stylesheet" type="text/css" href="https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css">
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.10.2.js">
+  </script>
+
+  <script type="text/javascript" src="https://code.jquery.com/ui/1.10.4/jquery-ui.js">
+  </script>
+
+  <style type="text/css">
+    .ui-widget-header {
+      background: green;
+      border: 1px solid black;
+    }
+  </style>
+  <script>
+    function outer() {
+      var x = -1;
+      return function inner(f) {
+        if (f == 1)
+          x = x + 1;
+        else {
+          x = x - 1;
+          if (x <= -1) {
+            x = 0;
+          }
+        }
+        $(function progressbar() {
+
+
+          $("#progressbar").progressbar({
+            value: x
+          });
+
+        })
+
+      }
+
+    };
+
+    var pbar = outer();
+    pbar(1);
+    function increase() {
+
+      pbar(1);
+
+    }
+    function decrease() {
+      pbar(0);
+    }
+
+    $( function() {
+    $( "#datepicker" ).datepicker();
+  } );
+  </script>
+
+</head >
+
+      <body>
+
+        
+        <p>Date: <input type="text" id="datepicker"></p>
+        <br>
+        <button onclick="increase()">Click Me To Increase</button>
+        <button onclick="decrease()">Click Me To Decrease</button>
+        <br>
+        <br>
+        <div id="progressbar">
+        </div>
+        <br>
+
+      </body>
+
+</html >
