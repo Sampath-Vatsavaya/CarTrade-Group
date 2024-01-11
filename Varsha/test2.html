@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<script>
+    emp = [
+	{
+		"id": "01",
+		"name": "Satish",
+		"des": "Admin",
+		"manager_id": -1
+	},
+	{
+		"id": "02",
+		"name": "Suresh",
+		"des": "Accountant",
+		"manager_id": "01"
+	},
+	{
+		"id": "03",
+		"name": "Ganesh",
+		"des": "HR",
+		"manager_id": "01"
+	},
+	{
+		"id": "04",
+		"name": "Mahesh",
+		"des": "TL",
+		"manager_id": "01"
+	},
+	{
+		"id": "05",
+		"name": "Kamesh",
+		"des": "Sr Programmer",
+		"manager_id": "04"
+	},
+	{
+		"id": "06",
+		"name": "Kamalesh",
+		"des": "Sr Programmer",
+		"manager_id": "04"
+	},
+	{
+		"id": "07",
+		"name": "veeresh",
+		"des": "Jr Programmer",
+		"manager_id": "05"
+	},
+	{
+		"id": "08",
+		"name": "Ramesh",
+		"des": "Jr Programmer",
+		"manager_id": "06"
+	},
+	{
+		"id": "09",
+		"name": "Venkatesh",
+		"des": "Jr Programmer",
+		"manager_id": "06"
+	},
+	{
+		"id": "10",
+		"name": "Mangesh",
+		"des": "Jr Programmer",
+		"manager_id": "06"
+	}
+
+];
+var org_hierarchy=[];
+count=0;
+function transform(ind)
+{
+        document.write("<ul>");
+		for(var j=0;j<emp.length;j++)
+		{
+            if(emp[j].manager_id === ind)
+            {
+                console.log(emp[j].id);
+                document.write("<li>" + emp[j].des + ": " + emp[j].name );
+                transform(emp[j].id);
+                document.write("</li>");
+            }
+            
+		}
+        //console.log("hello");
+    document.write("</ul>");
+    return;
+}
+
+function get_ids()
+{
+	x=emp.map(data=>data.manager_id);
+	var m=Math.min(parseInt(x));
+	ids=[...new Set(x)];
+}
+/*function add_sub(v,sub)
+{
+    if( typeof(v) == "object" && 'length' in v ){
+            for(var i=0;i<v.length;i++){
+                if( typeof(v[i]) == "object" ){
+                    return 
+                    print_tree(v[i]);
+                    document.write("</li>");
+                }else{
+                    document.write("<li>" + i + ": " + v[i] + "</li>");
+                }
+            }
+        }
+    else{
+            for(var i in v){
+                if( typeof(v[i]) == "object" ){
+                    document.write("<li>" + i + ": ");
+                    print_tree(v[i]);
+                    document.write("</li>");
+                }else{
+                    document.write("<li>" + i + ": " + v[i] + "</li>");
+                }
+            }
+        }
+    document.write("</ul>");
+}*/
+
+get_ids();
+transform(-1);
+
+</script>
+
+</body>
+</html>

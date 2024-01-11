@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<script>
+    emp = [
+	{
+		"id": "01",
+		"name": "Satish",
+		"des": "Admin",
+		"manager_id": -1
+	},
+	{
+		"id": "02",
+		"name": "Suresh",
+		"des": "Accountant",
+		"manager_id": 1
+	},
+	{
+		"id": "03",
+		"name": "Ganesh",
+		"des": "HR",
+		"manager_id": 1
+	},
+	{
+		"id": "04",
+		"name": "Mahesh",
+		"des": "TL",
+		"manager_id": 1
+	},
+	{
+		"id": "05",
+		"name": "Kamesh",
+		"des": "Sr Programmer",
+		"manager_id": 4
+	},
+	{
+		"id": "06",
+		"name": "Kamalesh",
+		"des": "Sr Programmer",
+		"manager_id": 4
+	},
+	{
+		"id": "07",
+		"name": "veeresh",
+		"des": "Jr Programmer",
+		"manager_id": 5
+	},
+	{
+		"id": "08",
+		"name": "Ramesh",
+		"des": "Jr Programmer",
+		"manager_id": 6
+	},
+	{
+		"id": "09",
+		"name": "Venkatesh",
+		"des": "Jr Programmer",
+		"manager_id": 6
+	},
+	{
+		"id": "10",
+		"name": "Mangesh",
+		"des": "Jr Programmer",
+		"manager_id": 6
+	}
+
+];
+var org_hierarchy=[];
+function transform()
+{
+	console.log(org_hierarchy);
+	for(i=1;i<ids.length;i++)
+	{
+		var sub_ordinates=[];
+		console.log("hello");
+		for(j=0;j<emp.length;j++)
+		{
+			
+			console.log("hello");
+			if(emp[j].manager_id==ids[i])
+			{
+				sub_ordinates.push(emp[j]);
+				emp.splice(j,1);
+			}
+		}
+		ind=org_hierarchy.findIndex(l=>l.manager_id===ids[i-1]);
+		org_hierarchy[ind]["sub_ordinates"]=sub_ordinates;
+	}
+	console.log(org_hierarchy);
+}
+
+function get_ids()
+{
+	x=emp.map(data=>data.manager_id);
+	let i=Math.min(parseInt(x));
+	ids=[...new Set(x)];
+	console.log(ids.length);
+	//console.log(parseInt(x).sort((a,b)=>a - b));
+    console.log(i);
+	person=emp.find(s=>s.manager_id === i);
+	org_hierarchy.push(person);
+	console.log(person);
+	console.log(org_hierarchy);
+	emp.splice(emp.findIndex(s=>s.manager_id === i),1);
+	console.log(emp);
+}
+get_ids();
+transform();
+
+</script>
+
+</body>
+</html>
